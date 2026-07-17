@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Dimo and I'm a software engineer, UI Designer, and a fullstack developer; I have experience <br>with C, C++, Python, JS, Node.js, and many more! I'm constantly creating projects and diving into learning <br>different languages to further improve my technical knowledge. When I'm not coding, I will dabble into some <br>Figma and Blender and practice my UI & 3D designs.<br><br>Let's get in contact and collaborate on some projects!
+Hi there! My name is Dimo and I'm a software engineer, UI Designer, and a fullstack developer; I have experience <br>with C, C++, Python, JS, Next.js, and many more! I'm constantly creating projects and diving into learning <br>different languages to further improve my technical knowledge. When I'm not coding, I will dabble into some <br>Figma and Blender and practice my UI & 3D designs.<br><br>Let's get in contact and collaborate on some projects!
 
 
 ## 🌐 Socials:
